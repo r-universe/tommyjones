@@ -1,0 +1,14 @@
+[
+  {
+    "package": "mvrsquared",
+    "oncran": true
+  },
+  {
+    "package": "textmineR",
+    "oncran": true
+  },
+  {
+    "package": "tidylda",
+    "oncran": true
+  }
+]
