@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mvrsquared"]
+	path = mvrsquared
+	url = https://github.com/tommyjones/mvrsquared
+	shallow = true
+	registered = true
 [submodule "textmineR"]
 	path = textmineR
 	url = https://github.com/tommyjones/textminer
@@ -11,10 +16,5 @@
 [submodule "tidylda"]
 	path = tidylda
 	url = https://github.com/tommyjones/tidylda
-	shallow = true
-	registered = true
-[submodule "mvrsquared"]
-	path = mvrsquared
-	url = https://github.com/tommyjones/mvrsquared
 	shallow = true
 	registered = true
